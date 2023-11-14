@@ -1,0 +1,12 @@
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: rgb(245, 241, 237);
+}
+body{
+background-color: rgb(217, 217, 94);
+}
+
+.container-fluid{
+    width: 80%;
+}
